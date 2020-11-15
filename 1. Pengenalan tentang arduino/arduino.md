@@ -13,7 +13,6 @@ per unit arduino bisa menjadi murah
 arduino yang umum di pakai dalam pembelajaran antara lain :
 
 **Arduino Nano**
-
 Arduino Nano memiliki dimensi 4,3 cm x 1,8 cm, menggunakan IC mikrokontroler
 ATMEGA328P, memiliki 30 pin, yang terdiri dari 13 pin digital, 8 pin analog, pin reset, pin
 VREF, pin tegangan 5 Volt dan pin ground. Dapat dipasang pada papan percobaan (project board).
