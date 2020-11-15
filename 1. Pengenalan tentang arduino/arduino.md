@@ -1,5 +1,4 @@
-#Arduino 
-
+# Arduino 
 Arduino adalah sebuah papan rangkaian tercetak yang diatasnya sudah terpasang mikrokontroler
 yang sudah berisi progam Boatloader, komponen-komponen pendukung, soket-soket untuk I/O
 dan IC konverter USB ke Serial.Mayoritas seri Arduino menggunakan mikrokontroler AVR yang memiliki fasilitas bootloader.
@@ -26,10 +25,10 @@ CH340. Untuk pengguna linux tidak ada masalah baik versi original maupun kloning
 untuk pengguna Windows, perlu menginstall driver-nya terlebih dahulu.
 
 
-![Bentuk Fisik arduino nano](arduino_nano.png)
+![Bentuk Fisik arduino nano](arduino_nano.PNG)
 
 
-#Spesifikasi
+# Spesifikasi
 | ---------------- | ---------------------------------------- |
 | Mikrokontroler   | ATmega328                                |
 | Arsitektur       | AVR                                      |
