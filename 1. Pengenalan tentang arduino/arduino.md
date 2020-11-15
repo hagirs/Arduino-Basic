@@ -29,6 +29,7 @@ untuk pengguna Windows, perlu menginstall driver-nya terlebih dahulu.
 
 
 # Spesifikasi
+|      NAMA        |                 SPESIFIKASI
 | ---------------- | ---------------------------------------- |
 | Mikrokontroler   | ATmega328                                |
 | Arsitektur       | AVR                                      |
