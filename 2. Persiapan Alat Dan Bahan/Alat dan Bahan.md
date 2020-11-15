@@ -20,3 +20,11 @@ Komponen yang umum digunakan untuk pemula :
 - Jumper
 - Resistor 10k ohm
 
+## Arduino IDE ##
+Aplikasi Arduino IDE adalah aplikasi pengembangan terpadu khusus
+untuk perangkat berbasis arduino. Tampilan Arduino IDE adalah sebagai berikut
+![Tampilan Arduino IDE](arduino_gui.PNG)
+program yang ditulis menggunakan arduino IDE dinamakan *sketches* ini ditulis dalam editor teks dan disimpan dalam file dengan akhiran *.ino*
+
+
+
