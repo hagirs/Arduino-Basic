@@ -18,7 +18,7 @@ Komponen yang umum digunakan untuk pemula :
 - Push Button
 - Potensiometer
 - Jumper
-- Resistor 10k ohm
+- Resistor
 
 ## Arduino IDE ##
 Aplikasi Arduino IDE adalah aplikasi pengembangan terpadu khusus
