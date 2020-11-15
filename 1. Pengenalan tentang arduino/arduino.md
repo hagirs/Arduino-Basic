@@ -1,8 +1,5 @@
 # Arduino 
-Arduino adalah sebuah papan rangkaian tercetak yang diatasnya sudah terpasang mikrokontroler
-yang sudah berisi progam Boatloader, komponen-komponen pendukung, soket-soket untuk I/O
-dan IC konverter USB ke Serial.Mayoritas seri Arduino menggunakan mikrokontroler AVR yang memiliki fasilitas bootloader.
-Boatloader adalah program yang dikerjakan hanya sekali pada saat pertama kali Arduino
+Arduino adalah sebuah papan rangkaian tercetak yang diatasnya sudah terpasang mikrokontroleryang sudah berisi progam Boatloader, komponen-komponen pendukung, soket-soket untuk I/Odan IC konverter USB ke Serial.Mayoritas seri Arduino menggunakan mikrokontroler AVR yang memiliki fasilitas bootloader.Boatloader adalah program yang dikerjakan hanya sekali pada saat pertama kali Arduino
 dinyalakan atau direset. AVR juga memiliki fasilitas untuk memprogram dirinya sendiri. Arduino
 memanfaatkan kedua fasilitas tersebut untuk menerima data program dan menuliskannya pada
 memori program, sehingga tidak diperlukan perangkat tambahan untuk mengunggah program ke
