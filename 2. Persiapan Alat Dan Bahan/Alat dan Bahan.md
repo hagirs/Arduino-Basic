@@ -8,7 +8,7 @@ berguna untuk menghubungkan komponen menjadi suatu rangkaian tertentu tanpa pros
 **Arduino Nano**
 
 berfungsi sebagai pengontrol rangkaian elektronik yang tersambung pada project board
-![Bentuk Fisik Arduino Nano](arduino_nano.PNG)
+![Bentuk Fisik Arduino Nano](Images/arduino_nano.PNG)
 
 **Komponen Elektronika**
 
@@ -23,7 +23,7 @@ Komponen yang umum digunakan untuk pemula :
 ## Arduino IDE ##
 Aplikasi Arduino IDE adalah aplikasi pengembangan terpadu khusus
 untuk perangkat berbasis arduino. Tampilan Arduino IDE adalah sebagai berikut
-![Tampilan Arduino IDE](arduino_gui.PNG)
+![Tampilan Arduino IDE](Images/arduino_gui.PNG)
 program yang ditulis menggunakan arduino IDE dinamakan *sketches* ini ditulis dalam editor teks dan disimpan dalam file dengan akhiran *.ino*
 
 
