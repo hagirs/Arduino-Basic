@@ -27,4 +27,4 @@ untuk perangkat berbasis arduino. Tampilan Arduino IDE adalah sebagai berikut
 program yang ditulis menggunakan arduino IDE dinamakan *sketches* ini ditulis dalam editor teks dan disimpan dalam file dengan akhiran *.ino*
 
 
-anda bisa mendownload aplikasi tersebut di [https://arduino.cc/](https://arduino.cc/software/)
+anda bisa mendownload aplikasi tersebut di [https://arduino.cc/](https://arduino.cc/downloads)
